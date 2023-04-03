@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "C18BE3BE-616B-46D0-84D1-ED99E2689D7C"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "83031ACA-F4AC-4FF3-8CD3-C6FA179C761D"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Drawer Counter 1.5/ContentView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "88"
+            endingLineNumber = "88"
+            landmarkName = "CustomNavBar"
+            landmarkType = "14">
+            <Locations>
+               <Location
+                  uuid = "83031ACA-F4AC-4FF3-8CD3-C6FA179C761D - 9cbd9d37fd1a4e2e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Drawer_Counter_1_5.CustomNavBar.selectedDrawerView.getter : Drawer_Counter_1_5.DrawerView"
+                  moduleName = "Drawer Counter 1.5"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/cason/Desktop/python%20apps/Xcode-graphing-ti-84/Drawer-Counter-1.0/Drawer%20Counter%201.5/Drawer%20Counter%201.5/ContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "88"
+                  endingLineNumber = "88"
+                  offsetFromSymbolStart = "141">
+               </Location>
+               <Location
+                  uuid = "83031ACA-F4AC-4FF3-8CD3-C6FA179C761D - f4bae14b4c50823a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Drawer_Counter_1_5.CustomNavBar.selectedDrawerView.setter : Drawer_Counter_1_5.DrawerView"
+                  moduleName = "Drawer Counter 1.5"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/cason/Desktop/python%20apps/Xcode-graphing-ti-84/Drawer-Counter-1.0/Drawer%20Counter%201.5/Drawer%20Counter%201.5/ContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "88"
+                  endingLineNumber = "88"
+                  offsetFromSymbolStart = "139">
+               </Location>
+               <Location
+                  uuid = "83031ACA-F4AC-4FF3-8CD3-C6FA179C761D - 3a7b713086efaf2b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Drawer_Counter_1_5.CustomNavBar.selectedDrawerView.modify : Drawer_Counter_1_5.DrawerView"
+                  moduleName = "Drawer Counter 1.5"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/cason/Desktop/python%20apps/Xcode-graphing-ti-84/Drawer-Counter-1.0/Drawer%20Counter%201.5/Drawer%20Counter%201.5/ContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "88"
+                  endingLineNumber = "88"
+                  offsetFromSymbolStart = "0">
+               </Location>
+               <Location
+                  uuid = "83031ACA-F4AC-4FF3-8CD3-C6FA179C761D - 2b7c0257616d3cf0"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Drawer_Counter_1_5.CustomNavBar.selectedDrawerView.modify : Drawer_Counter_1_5.DrawerView with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "Drawer Counter 1.5"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/cason/Desktop/python%20apps/Xcode-graphing-ti-84/Drawer-Counter-1.0/Drawer%20Counter%201.5/Drawer%20Counter%201.5/ContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "88"
+                  endingLineNumber = "88"
+                  offsetFromSymbolStart = "48">
+               </Location>
+               <Location
+                  uuid = "83031ACA-F4AC-4FF3-8CD3-C6FA179C761D - 588cdc6716c9c54d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Drawer_Counter_1_5.CustomNavBar.$selectedDrawerView.getter : SwiftUI.Binding&lt;Drawer_Counter_1_5.DrawerView&gt;"
+                  moduleName = "Drawer Counter 1.5"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/cason/Desktop/python%20apps/Xcode-graphing-ti-84/Drawer-Counter-1.0/Drawer%20Counter%201.5/Drawer%20Counter%201.5/ContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "88"
+                  endingLineNumber = "88"
+                  offsetFromSymbolStart = "184">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
